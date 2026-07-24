@@ -4,7 +4,7 @@
 
 ### Animated landing page for a student gravity-racing project
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2dded6?style=for-the-badge&logo=githubpages&logoColor=071014)](https://abrilvillita.github.io/Laguna-Hawks/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2dded6?style=for-the-badge&logo=githubpages&logoColor=071014)](https://abrilvillita.github.io/Laguna-Hawks-Landing-Page/)
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=111)
